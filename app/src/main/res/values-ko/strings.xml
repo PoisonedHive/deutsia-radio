@@ -272,11 +272,6 @@
     <string name="settings_about">정보</string>
     <string name="settings_version">버전 1.8</string>
     <string name="settings_view_github">GitHub에서 보기</string>
-    <string name="settings_donate">기부</string>
-    <string name="settings_donate_description">이 앱이 도움이 되었다면 기부를 고려해주세요</string>
-    <string name="settings_monero">Monero (XMR)</string>
-    <string name="settings_monero_address">83GGx86c6ZePiz8tEcGYtGJYmnjuP8W9cfLx6s98WAu8YkenjLr4zFC4RxcCk3hwFUiv59wS8KRPzNUUUqTrrYXCJAk4nrN</string>
-    <string name="settings_copy_address">주소 복사</string>
 
     
     <string name="tor_connection_details">연결 세부정보</string>
@@ -377,7 +372,6 @@
     <string name="toast_session_bandwidth_reset">세션 대역폭 재설정됨</string>
     <string name="toast_custom_proxy_saved">사용자 지정 프록시 설정 저장됨</string>
     <string name="toast_custom_proxy_cleared">사용자 지정 프록시 설정 지워짐</string>
-    <string name="toast_address_copied">주소가 클립보드에 복사됨</string>
     <string name="toast_metadata_copied">노래 정보가 클립보드에 복사됨</string>
     <string name="toast_using_default_directory">기본 디렉토리 사용 중</string>
 

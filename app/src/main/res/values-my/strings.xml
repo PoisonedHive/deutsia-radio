@@ -272,11 +272,6 @@
     <string name="settings_about">အကြောင်း</string>
     <string name="settings_version">ဗားရှင်း 1.8</string>
     <string name="settings_view_github">GitHub တွင် ကြည့်ရန်</string>
-    <string name="settings_donate">လှူဒါန်းရန်</string>
-    <string name="settings_donate_description">ဒီအက်ပ်က သင့်ကို ကူညီခဲ့ရင် လှူဒါန်းရန် စဉ်းစားပါ</string>
-    <string name="settings_monero">Monero (XMR)</string>
-    <string name="settings_monero_address">83GGx86c6ZePiz8tEcGYtGJYmnjuP8W9cfLx6s98WAu8YkenjLr4zFC4RxcCk3hwFUiv59wS8KRPzNUUUqTrrYXCJAk4nrN</string>
-    <string name="settings_copy_address">လိပ်စာကို ကူးယူရန်</string>
 
     
     <string name="tor_connection_details">ချိတ်ဆက်မှု အသေးစိတ်</string>
@@ -378,7 +373,6 @@
     <string name="toast_session_bandwidth_reset">Session bandwidth ကို ပြန်လည်သတ်မှတ်ပြီးပါပြီ</string>
     <string name="toast_custom_proxy_saved">စိတ်ကြိုက် proxy ဆက်တင်များကို သိမ်းဆည်းပြီးပါပြီ</string>
     <string name="toast_custom_proxy_cleared">စိတ်ကြိုက် proxy ဆက်တင်များကို ရှင်းလင်းပြီးပါပြီ</string>
-    <string name="toast_address_copied">လိပ်စာကို clipboard သို့ ကူးယူပြီးပါပြီ</string>
     <string name="toast_metadata_copied">သီချင်းအချက်အလက်ကို clipboard သို့ ကူးယူပြီးပါပြီ</string>
     <string name="toast_using_default_directory">မူလ ဖိုင်တွဲကို သုံးနေသည်</string>
 

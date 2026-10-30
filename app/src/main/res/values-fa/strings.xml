@@ -272,11 +272,6 @@
     <string name="settings_about">درباره</string>
     <string name="settings_version">نسخه 1.8</string>
     <string name="settings_view_github">مشاهده در GitHub</string>
-    <string name="settings_donate">کمک مالی</string>
-    <string name="settings_donate_description">اگر این برنامه به شما کمک کرد، کمک مالی را در نظر بگیرید</string>
-    <string name="settings_monero">Monero (XMR)</string>
-    <string name="settings_monero_address">83GGx86c6ZePiz8tEcGYtGJYmnjuP8W9cfLx6s98WAu8YkenjLr4zFC4RxcCk3hwFUiv59wS8KRPzNUUUqTrrYXCJAk4nrN</string>
-    <string name="settings_copy_address">کپی آدرس</string>
 
     
     <string name="tor_connection_details">جزئیات اتصال</string>
@@ -378,7 +373,6 @@
     <string name="toast_session_bandwidth_reset">پهنای باند جلسه بازنشانی شد</string>
     <string name="toast_custom_proxy_saved">تنظیمات پروکسی سفارشی ذخیره شد</string>
     <string name="toast_custom_proxy_cleared">تنظیمات پروکسی سفارشی پاک شد</string>
-    <string name="toast_address_copied">آدرس به کلیپ‌بورد کپی شد</string>
     <string name="toast_metadata_copied">اطلاعات آهنگ در کلیپ‌بورد کپی شد</string>
     <string name="toast_using_default_directory">در حال استفاده از پوشه پیش‌فرض</string>
 

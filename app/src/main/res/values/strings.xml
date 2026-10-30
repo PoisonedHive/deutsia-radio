@@ -380,11 +380,6 @@
     <string name="settings_about">About</string>
     <string name="settings_version">Version 1.8</string>
     <string name="settings_view_github">View on GitHub</string>
-    <string name="settings_donate">Donate</string>
-    <string name="settings_donate_description">If this app helped you out, consider donating</string>
-    <string name="settings_monero">Monero (XMR)</string>
-    <string name="settings_monero_address">83GGx86c6ZePiz8tEcGYtGJYmnjuP8W9cfLx6s98WAu8YkenjLr4zFC4RxcCk3hwFUiv59wS8KRPzNUUUqTrrYXCJAk4nrN</string>
-    <string name="settings_copy_address">Copy Address</string>
 
     <!-- Tor Control Bottom Sheet -->
     <string name="tor_connection_details">Connection Details</string>
@@ -485,7 +480,6 @@
     <string name="toast_session_bandwidth_reset">Session bandwidth reset</string>
     <string name="toast_custom_proxy_saved">Custom proxy settings saved</string>
     <string name="toast_custom_proxy_cleared">Custom proxy settings cleared</string>
-    <string name="toast_address_copied">Address copied to clipboard</string>
     <string name="toast_metadata_copied">Song info copied to clipboard</string>
     <string name="toast_using_default_directory">Using default directory</string>
 
@@ -729,6 +723,8 @@
     <string name="error_station_geoblocked">Station blocked in your region (or from this exit node)</string>
     <string name="error_station_gone">Station no longer exists at that URL</string>
     <string name="error_station_auth_required">Station requires authentication</string>
+    <string name="error_radio_browser_unavailable">Radio Browser is unavailable (HTTP %1$s). The station directory server is down; try again later.</string>
+    <string name="browse_offline_catalog_message">Radio Browser is unavailable — showing stations from the offline catalog.</string>
     <string name="notification_unsupported_codec">%1$s streams aren\'t supported</string>
     <string name="notification_playlist_unreadable">Couldn\'t read playlist</string>
 

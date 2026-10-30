@@ -272,11 +272,6 @@
     <string name="settings_about">Informazioni</string>
     <string name="settings_version">Versione 1.8</string>
     <string name="settings_view_github">Visualizza su GitHub</string>
-    <string name="settings_donate">Dona</string>
-    <string name="settings_donate_description">Se questa app ti ha aiutato, considera di donare</string>
-    <string name="settings_monero">Monero (XMR)</string>
-    <string name="settings_monero_address">83GGx86c6ZePiz8tEcGYtGJYmnjuP8W9cfLx6s98WAu8YkenjLr4zFC4RxcCk3hwFUiv59wS8KRPzNUUUqTrrYXCJAk4nrN</string>
-    <string name="settings_copy_address">Copia indirizzo</string>
 
     
     <string name="tor_connection_details">Dettagli connessione</string>
@@ -377,7 +372,6 @@
     <string name="toast_session_bandwidth_reset">Banda sessione ripristinata</string>
     <string name="toast_custom_proxy_saved">Impostazioni proxy personalizzato salvate</string>
     <string name="toast_custom_proxy_cleared">Impostazioni proxy personalizzato cancellate</string>
-    <string name="toast_address_copied">Indirizzo copiato negli appunti</string>
     <string name="toast_metadata_copied">Informazioni del brano copiate negli appunti</string>
     <string name="toast_using_default_directory">Utilizzo directory predefinita</string>
 

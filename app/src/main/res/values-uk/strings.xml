@@ -272,11 +272,6 @@
     <string name="settings_about">Про програму</string>
     <string name="settings_version">Версія 1.8</string>
     <string name="settings_view_github">Переглянути на GitHub</string>
-    <string name="settings_donate">Підтримати</string>
-    <string name="settings_donate_description">Якщо цей додаток вам допоміг, розгляньте можливість підтримки</string>
-    <string name="settings_monero">Monero (XMR)</string>
-    <string name="settings_monero_address">83GGx86c6ZePiz8tEcGYtGJYmnjuP8W9cfLx6s98WAu8YkenjLr4zFC4RxcCk3hwFUiv59wS8KRPzNUUUqTrrYXCJAk4nrN</string>
-    <string name="settings_copy_address">Копіювати адресу</string>
 
     
     <string name="tor_connection_details">Деталі з\'єднання</string>
@@ -378,7 +373,6 @@
     <string name="toast_session_bandwidth_reset">Трафік сесії скинуто</string>
     <string name="toast_custom_proxy_saved">Налаштування власного проксі збережено</string>
     <string name="toast_custom_proxy_cleared">Налаштування власного проксі очищено</string>
-    <string name="toast_address_copied">Адресу скопійовано в буфер обміну</string>
     <string name="toast_metadata_copied">Інформацію про пісню скопійовано в буфер обміну</string>
     <string name="toast_using_default_directory">Використовується каталог за замовчуванням</string>
 
